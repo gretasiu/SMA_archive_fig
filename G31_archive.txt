@@ -1,0 +1,14 @@
+22	g31___________	18:47:34.32	-01:12:45.5	0"	236.0  	10  	1.66  	109	sat	no	R	2022A-A012	hau-yu baobab liu	Proprietary	NA
+22      g31___________  18:47:34.32     -01:12:45.5     0"      245.5   10    	1.60 	109     sat     no      R       2022A-A012      hau-yu baobab liu
+17	g31.412+00.307	18:47:34.00	-01:12:45.6	5"	200.5  	21  	3.99  	23	sat	no	R	2017A-S030	yuxin lin	view obs report	view pdf
+17	g31.412+00.307	18:47:34.00	-01:12:45.6	5"	200.5  	21  	6.63  	27	sat	no	R	2017A-S030	yuxin lin	view obs report	view pdf
+16	g31___________	18:47:34.30	-01:12:45.9	0"	232.7  	28  	1.19  	137	sat	no	R	2015B-S034	victor m. rivilla	view obs report	view pdf
+08	g31.41+0.31___	18:47:34.31	-01:12:46.0	1"	221.4 	21 	1.29 	436	sat	no	R	2008A-S018	maite beltran	view obs report	view pdf
+08	g31.41+0.31___	18:47:34.31	-01:12:46.0	1"	221.4 	28 	1.99 	410	sat	no	R C	2008A-S018	maite beltran	view obs report	view pdf
+07	g3141_________	18:47:34.32	-01:12:45.9	0"	341.4 	21 	0.81 	206	sat	yes	R	2007A-S088	josep miquel girart	view obs report	view pdf
+07	g3141_________	18:47:34.32	-01:12:45.9	0"	341.4 	21 	1.30 	247	sat	yes	R	2007A-S088	josep miquel girart	NA	view pdf
+07	g31.41________	18:47:34.32	-01:12:45.9	0"	225.3 	28 	1.94 	119	sat	no	R	2007A-S024	qizhou zhang	view obs report	view pdf
+07	g31.41________	18:47:34.32	-01:12:45.9	0"	225.3 	21 	0.53 	113	sat	no	R	2007A-S024	qizhou zhang	view obs report	view pdf
+07	g31.41________	18:47:34.32	-01:12:45.9	0"	225.3 	15 	0.53 	129	sat	no	R	2007A-S024	qizhou zhang	view obs report	view pdf
+07	g31.41________	18:47:34.32	-01:12:45.9	0"	225.3 	15 	0.58 	70	sat	no	R	2007A-S024	qizhou zhang	view obs report	view pdf
+04	g31.41________	18:47:34.33	-01:12:46.5	1"	225.4 	21 	0.85 	2	sat	yes	R	NA	sma	NA	NA

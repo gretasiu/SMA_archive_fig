@@ -1,0 +1,93 @@
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	15	3.86	474	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	15	3.42	474	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	15	3.56	86	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	15	4.02	86	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	15	3.42	478	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	15	3.86	478	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	15	3.42	494	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	15	3.86	494	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	15	3.42	316	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	15	3.86	316	sat	no	R	2022A-S013	pamela freeman	Proprietary	view pdf
+22	dr21oh________	20:39:01.20	+42:22:48.5	0	245.5	10	1.39	115	sat	no	R	2022A-A012	hau-yu baobab liu	Proprietary	NA
+22	dr21oh________	20:39:01.20	+42:22:48.5	0	236.0	10	1.44	115	sat	no	R	2022A-A012	hau-yu baobab liu	Proprietary	NA
+21	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	21	2.84	165	sat	no	R	2021A-S018	pamela freeman	Proprietary	view pdf
+21	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	21	2.84	165	sat	no	R	2021A-S018	pamela freeman	Proprietary	view pdf
+21	dr21oh________	20:39:01.00	+42:22:48.0	2	262.0	21	2.84	169	sat	no	R	2021A-S018	pamela freeman	Proprietary	view pdf
+21	dr21oh________	20:39:01.00	+42:22:48.0	2	232.0	21	2.84	169	sat	no	R	2021A-S018	pamela freeman	Proprietary	view pdf
+18	dr21_oh_______	20:39:01.10	+42:22:49.1	1	233.0	28	3.53	185	sat	no	R	2018A-S031	brett mcguire	view obs report	view pdf
+18	dr21_oh_______	20:39:01.10	+42:22:49.1	1	225.0	28	3.65	185	sat	no	R	2018A-S031	brett mcguire	view obs report	view pdf
+18	dr21_oh_______	20:39:01.10	+42:22:49.1	1	225.0	21	3.65	106	usat	no	R	2018A-S031	brett mcguire	view obs report	view pdf
+18	dr21_oh_______	20:39:01.10	+42:22:49.1	1	233.0	21	3.53	106	usat	no	R	2018A-S031	brett mcguire	view obs report	view pdf
+16	d21_12_10_____	20:39:01.88	+42:22:58.5	13	224.8	21	1.29	28	sat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21___________	20:39:00.80	+42:22:48.5	4	224.8	21	1.29	27	sat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21___________	20:39:00.80	+42:22:48.5	4	224.8	21	1.29	27	sat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21_12_10_____	20:39:01.88	+42:22:58.5	13	224.8	21	1.29	23	usat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21___________	20:39:00.80	+42:22:48.5	4	224.8	21	1.29	23	usat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21_12_10_____	20:39:01.88	+42:22:58.5	13	224.8	21	1.31	3	usat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21___________	20:39:00.80	+42:22:48.5	4	224.8	21	1.31	3	usat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21_12_10_____	20:39:01.88	+42:22:58.5	13	224.9	15	1.50	20	usat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	d21___________	20:39:00.80	+42:22:48.5	4	224.9	15	1.50	19	usat	no	R	2016A-S021	keping qiu	view obs report	view pdf
+16	dr21ohc0______	20:39:00.80	+42:22:48.5	4	224.9	28	0.52	35	sat	no	R	2016A-S061	keping qiu	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	21	2.72	108	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	0.47	61	pol	yes	R	2011A-S077	pau frau	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	1.50	94	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	1.51	86	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.1	28	1.50	86	sat	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	1.50	86	sat	yes	R	2011A-S077	pau frau	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.1	21	3.16	57	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	84	7.81	49	sat	no	R		sma	NA	view pdf
+11	dr21_12_10____	20:39:01.93	+42:22:58.5	13	224.9	21	6.78	24	sat	no	R C	2011A-S074	joseph hora	view obs report	view pdf
+11	dr21__________	20:39:00.81	+42:22:48.5	4	224.9	21	6.78	23	sat	no	R C	2011A-S074	joseph hora	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	341.5	28	3.89	49	pol	no	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21_12_10____	20:39:01.93	+42:22:58.5	13	224.9	28	4.12	30	sat	no	R C	2011A-S074	joseph hora	view obs report	view pdf
+11	dr21__________	20:39:00.81	+42:22:48.5	4	224.9	28	4.12	29	sat	no	R C	2011A-S074	joseph hora	view obs report	view pdf
+11	dr21_12_10____	20:39:01.93	+42:22:58.5	13	224.9	21	4.16	29	sat	no	R C	2011A-S074	joseph hora	view obs report	view pdf
+11	dr21__________	20:39:00.81	+42:22:48.5	4	224.9	21	4.16	29	sat	no	R C	2011A-S074	joseph hora	view obs report	view pdf
+07	w75oh_________	20:39:01.01	+42:22:49.8	2	271.7	28	1.07	190	sat	no	R	2007A-S071	jingwen wu	view obs report	view pdf
+07	w75oh_________	20:39:01.01	+42:22:49.8	2	271.7	28	1.69	235	sat	no	R	2007A-S071	jingwen wu	view obs report	view pdf
+06	dr21oh________	20:39:01.00	+42:22:48.0	2	342.8	15	2.63	83	sat	no	R	NA	yu-nung su	NA	NA
+06	dr21oh________	20:39:01.00	+42:22:48.0	2	222.6	28	1.30	133	sat	no	R	NA	yu-nung su	NA	NA
+15	dr21oh_n______	20:39:02.95	+42:25:51.0	0	340.0	21	3.97 	96	pol	yes	R	2015A-S022	qizhou zhang	view obs report	view pdf
+15	dr21oh_n______	20:39:02.95	+42:25:51.0	0	340.0	21	5.11	96	pol	yes	R	2015A-S022	qizhou zhang	view obs report	view pdf
+14	dr21ohn_______	20:39:03.20	+42:25:49.0	0	340.1	28	2.06	30	pol	yes	R	2014A-S021	keping qiu	view obs report	view pdf
+14	dr21ohn_______	20:39:03.20	+42:25:49.0	0	340.1	21	2.05	21	pol	yes	R	2014A-S021	keping qiu	view obs report	view pdf
+13	dr21oh_s______	20:39:01.34	+42:22:04.9	0	337.3	15	1.04	24	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_w______	20:38:59.12	+42:22:26.0	0	337.3	15	1.04	12	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_s______	20:39:01.34	+42:22:04.9	0	337.3	15	1.04	38	usat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_w______	20:38:59.12	+42:22:26.0	0	337.3	15	1.04	20	usat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_s______	20:39:01.34	+42:22:04.9	0	337.3	15	1.04	38	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_w______	20:38:59.12	+42:22:26.0	0	337.3	15	1.04	20	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_s______	20:39:01.34	+42:22:04.9	0	337.3	10	1.13	40	usat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_w______	20:38:59.12	+42:22:26.0	0	337.3	10	1.14	20	usat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.8	15	0.91	47	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.8	15	0.91	24	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.7	15	0.91	19	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+13	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.7	15	0.91	11	sat	no	R	2013A-S074	xing lu	view obs report	view pdf
+12	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.0	15	7.38	49	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.0	15	7.60	61	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_s______	20:32:45.54	+40:39:36.6	0	340.0	15	7.46	49	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.0	15	7.40	49	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.0	15	7.41	37	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.0	15	7.38	54	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.1	21	2.69	37	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.1	21	2.70	62	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.1	21	2.68	49	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.1	21	2.70	53	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.1	21	2.71	49	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+12	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.1	21	2.71	47	pol	yes	R	2012A-S023	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	21	2.72	108	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	0.47	61	pol	yes	R	2011A-S077	pau frau	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	1.50	94	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	1.51	86	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.1	28	1.50	86	sat	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	28	1.50	86	sat	yes	R	2011A-S077	pau frau	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.1	21	3.16	57	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh_n______	20:39:02.95	+42:25:51.0	0	340.1	21	3.19	49	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.1	21	3.17	37	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.1	21	3.16	49	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh_n______	20:39:02.95	+42:25:51.0	0	340.1	21	4.45	60	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh_s______	20:39:01.34	+42:22:04.9	0	340.1	21	4.45	89	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21_w________	20:36:57.65	+42:11:30.2	0	340.1	21	4.46	24	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh_w______	20:38:59.12	+42:22:26.0	0	340.1	21	4.47	49	pol	yes	R	2011A-S031	qizhou zhang	view obs report	view pdf
+11	dr21oh________	20:39:01.21	+42:22:48.5	0	340.0	84	7.81	49	sat	no	R		sma	NA	view pdf
+06	dr21oh________	20:39:01.00	+42:22:48.0	0	342.8	15	2.63	83	sat	no	R	NA	yu-nung su	NA	NA
